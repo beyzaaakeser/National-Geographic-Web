@@ -35,6 +35,7 @@ body{
     font-size: 15px;
     letter-spacing: 3px;
     cursor: pointer;
+
 }
 
 .navbar img{
@@ -48,12 +49,13 @@ body{
     display: inline-block;
     border-bottom: solid 2.5px var(--color1);
     transition: background-image 3s;
-    
+    cursor: pointer;
 }
 
 .news:hover{
     background-image: linear-gradient(to bottom, var(--color1), var(--color1));
-}
+    cursor: pointer;
+  }
 
 
 .navbar .nav-menu h4{
@@ -67,7 +69,7 @@ body{
 }
 .navbar .nav-menu h4:hover{
     background-color:var(--color1) ;
-
+  cursor: pointer;
 }
 
 .navbar .nav-menu h3:last-child{
