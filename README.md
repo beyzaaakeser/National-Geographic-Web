@@ -1,1 +1,1 @@
-https://nationalgeographic-clone.netlify.app
+https://national-geographic-clone.netlify.app
